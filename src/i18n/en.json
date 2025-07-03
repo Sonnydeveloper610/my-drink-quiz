@@ -1,0 +1,83 @@
+{
+  "appTitle": "🍹 Find Your Perfect Drink",
+  "start": "Start",
+  "next": "Next",
+  "showResult": "Show Result",
+  "analyzing": "Analyzing your result...",
+  "shareResult": "Share Result",
+  "shareApp": "Share App",
+  "copied": "URL copied!",
+  "shared": "Shared successfully!",
+  "questions": [
+    {
+      "q": "What do you want to do on weekends?",
+      "opts": ["Hang out with friends", "Watch a movie alone", "Outdoor activities", "Go to a fancy bar"]
+    },
+    {
+      "q": "What kind of food do you like?",
+      "opts": ["Spicy food", "Light snacks", "Traditional Korean", "Cheese/Fruit"]
+    },
+    {
+      "q": "What flavor do you prefer?",
+      "opts": ["Clean and bitter", "Refreshing", "Sweet and soft", "Deep and rich"]
+    },
+    {
+      "q": "Your role at a drinking party?",
+      "opts": ["Mood maker", "Quiet observer", "Get along with everyone", "Serious talk"]
+    },
+    {
+      "q": "Which travel destination attracts you most?",
+      "opts": ["Bustling city", "Camping in nature", "Countryside", "European winery"]
+    },
+    {
+      "q": "Why do you drink?",
+      "opts": ["Relieve stress", "New experiences", "Traditional taste", "Special moments"]
+    },
+    {
+      "q": "Favorite season?",
+      "opts": ["Winter", "Summer", "Autumn", "Spring"]
+    },
+    {
+      "q": "Music preference?",
+      "opts": ["Hip-hop/Dance", "Pop/Rock", "Korean folk", "Jazz/Classical"]
+    },
+    {
+      "q": "How do friends describe you?",
+      "opts": ["Honest", "Cheerful", "Warm", "Delicate"]
+    },
+    {
+      "q": "Ideal date?",
+      "opts": ["Street food stall", "Pub", "Traditional cafe", "Wine bar"]
+    },
+    {
+      "q": "Most important when choosing a drink?",
+      "opts": ["Price", "Mood", "Tradition", "Luxury"]
+    },
+    {
+      "q": "Favorite side dish?",
+      "opts": ["Pork belly", "Chicken", "Pancake", "Cheese platter"]
+    }
+  ],
+ "results": {
+  "soju": {
+    "title": "Soju",
+    "desc": "✔️ You are practical and honest, someone who gives trust and comfort to those around you. You tend to quietly walk your own path, sometimes hiding your true feelings, but your sincerity always shines through.\n\n🍲 Perfect pairings: Grilled pork belly, kimchi pancakes, spicy stir-fried squid\n🎵 Recommended music: Emotional ballads, indie tracks\n\n💡 Best enjoyed when:\n- You want to relieve stress\n- You're having deep conversations with close friends\n- You want to savor small joys in everyday life\n\n\"Clink your clear glasses with those who truly understand you, and let soju comfort your day.\"\n\n👉 Soju is your perfect match!"
+  },
+  "beer": {
+    "title": "Beer",
+    "desc": "✔️ You are free-spirited and social, always spreading positive energy wherever you go. You love trying new things and enjoy being around different people. You're often the life of the party!\n\n🍗 Perfect pairings: Fried chicken, French fries, pizza\n🎵 Recommended music: Pop, rock, upbeat dance tracks\n\n💡 Best enjoyed when:\n- Enjoying the breeze outdoors\n- Cheering for your favorite sports team\n- Creating a lively party atmosphere with friends\n\n\"Let the bubbles and freshness wash away today's fatigue.\"\n\n👉 Beer is your perfect match!"
+  },
+  "makgeolli": {
+    "title": "Makgeolli",
+    "desc": "✔️ You have a warm and down-to-earth personality, loving tradition and nature. You find happiness in the little things and bring comfort to those around you. Your presence feels like home.\n\n🥞 Perfect pairings: Korean pancakes, acorn jelly, potato pancakes\n🎵 Recommended music: Folk, Korean traditional, acoustic\n\n💡 Best enjoyed when:\n- Watching the rain outside\n- Gathering with family or longtime friends\n- Relaxing in peaceful nature\n\n\"Pour a glass of makgeolli and fill it with today's memories.\"\n\n👉 Makgeolli is your perfect match!"
+  },
+  "wine": {
+    "title": "Wine",
+    "desc": "✔️ You are sensitive and sophisticated, with a strong sense of aesthetics. You cherish time alone, enjoy deep conversations, and appreciate art and culture. Your taste is unique and your world is distinct.\n\n🧀 Perfect pairings: Cheese, fruit, steak\n🎵 Recommended music: Jazz, classical, R&B\n\n💡 Best enjoyed when:\n- Relaxing at night with music\n- Celebrating special occasions\n- Reflecting in your own space\n\n\"Savor the emotions of today with a glass of wine.\"\n\n👉 Wine is your perfect match!"
+  },
+  "whisky": {
+    "title": "Whisky",
+    "desc": "✔️ You have a deep and mysterious charm. You enjoy spending time alone and prefer meaningful conversations. Your refined taste and strong convictions set you apart.\n\n🥩 Perfect pairings: Steak, cheese, dark chocolate\n🎵 Recommended music: Blues, jazz, classical\n\n💡 Best enjoyed when:\n- Enjoying the ambiance of a quiet bar\n- Reflecting on life\n- Celebrating special moments\n\n\"Let the rich aroma inspire your own story.\"\n\n👉 Whisky is your perfect match!"
+  }
+}
+}

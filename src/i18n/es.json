@@ -1,0 +1,83 @@
+{
+  "appTitle": "🍹 Encuentra tu bebida ideal",
+  "start": "Comenzar",
+  "next": "Siguiente",
+  "showResult": "Ver resultado",
+  "analyzing": "Analizando resultado...",
+  "shareResult": "Compartir resultado",
+  "shareApp": "Compartir app",
+  "copied": "¡URL copiada!",
+  "shared": "¡Compartido con éxito!",
+  "questions": [
+    {
+      "q": "¿Qué te gustaría hacer el fin de semana?",
+      "opts": ["Salir con amigos", "Ver una película solo", "Actividades al aire libre", "Ir a un bar elegante"]
+    },
+    {
+      "q": "¿Qué tipo de comida prefieres?",
+      "opts": ["Comida picante", "Aperitivos ligeros", "Tradicional coreano", "Queso/Fruta"]
+    },
+    {
+      "q": "¿Qué sabor prefieres?",
+      "opts": ["Limpio y amargo", "Refrescante", "Dulce y suave", "Profundo y rico"]
+    },
+    {
+      "q": "¿Tu papel en una fiesta?",
+      "opts": ["Animador", "Observador tranquilo", "Amistoso con todos", "Conversación seria"]
+    },
+    {
+      "q": "¿Qué destino te atrae más?",
+      "opts": ["Ciudad bulliciosa", "Camping en la naturaleza", "Campo", "Bodega europea"]
+    },
+    {
+      "q": "¿Por qué bebes?",
+      "opts": ["Aliviar el estrés", "Nuevas experiencias", "Sabor tradicional", "Momentos especiales"]
+    },
+    {
+      "q": "¿Estación favorita?",
+      "opts": ["Invierno", "Verano", "Otoño", "Primavera"]
+    },
+    {
+      "q": "¿Qué música prefieres?",
+      "opts": ["Hip-hop/Baile", "Pop/Rock", "Folk coreano", "Jazz/Clásica"]
+    },
+    {
+      "q": "¿Cómo te describen tus amigos?",
+      "opts": ["Honesto", "Alegre", "Cálido", "Delicado"]
+    },
+    {
+      "q": "¿Cita ideal?",
+      "opts": ["Puesto de comida callejera", "Pub", "Café tradicional", "Bar de vinos"]
+    },
+    {
+      "q": "¿Qué es más importante al elegir una bebida?",
+      "opts": ["Precio", "Ambiente", "Tradición", "Lujo"]
+    },
+    {
+      "q": "¿Acompañamiento favorito?",
+      "opts": ["Panceta de cerdo", "Pollo", "Tortilla coreana", "Tabla de quesos"]
+    }
+  ],
+"results": {
+  "soju": {
+    "title": "Soju",
+    "desc": "✔️ Eres una persona práctica y honesta, que brinda confianza y seguridad a quienes te rodean. Sueles seguir tu propio camino en silencio, a veces ocultando tus verdaderos sentimientos, pero tu sinceridad siempre se nota.\n\n🍲 Maridajes perfectos: Panceta de cerdo a la parrilla, panqueques de kimchi, calamares picantes salteados\n🎵 Música recomendada: Baladas emotivas, música indie\n\n💡 Ideal para disfrutar cuando:\n- Quieres aliviar el estrés\n- Tienes conversaciones profundas con amigos cercanos\n- Quieres saborear pequeñas alegrías cotidianas\n\n\"Brinda con quienes realmente te entienden y deja que el soju reconforte tu día.\"\n\n👉 ¡El soju es tu pareja ideal!"
+  },
+  "beer": {
+    "title": "Cerveza",
+    "desc": "✔️ Eres libre y sociable, siempre transmitiendo energía positiva dondequiera que vayas. Te encanta probar cosas nuevas y estar rodeado de diferentes personas. ¡Sueles ser el alma de la fiesta!\n\n🍗 Maridajes perfectos: Pollo frito, papas fritas, pizza\n🎵 Música recomendada: Pop, rock, canciones bailables\n\n💡 Ideal para disfrutar cuando:\n- Disfrutas de la brisa al aire libre\n- Animando a tu equipo deportivo favorito\n- Creando un ambiente festivo con amigos\n\n\"Deja que las burbujas y la frescura eliminen el cansancio de hoy.\"\n\n👉 ¡La cerveza es tu pareja ideal!"
+  },
+  "makgeolli": {
+    "title": "Makgeolli",
+    "desc": "✔️ Tienes una personalidad cálida y sencilla, amas la tradición y la naturaleza. Encuentras la felicidad en las pequeñas cosas y brindas comodidad a quienes te rodean. Tu presencia se siente como en casa.\n\n🥞 Maridajes perfectos: Tortillas coreanas, gelatina de bellota, panqueques de patata\n🎵 Música recomendada: Folk, música tradicional coreana, acústica\n\n💡 Ideal para disfrutar cuando:\n- Observas la lluvia desde la ventana\n- Te reúnes con familia o amigos de toda la vida\n- Te relajas en la naturaleza tranquila\n\n\"Sirve un vaso de makgeolli y llénalo con los recuerdos de hoy.\"\n\n👉 ¡El makgeolli es tu pareja ideal!"
+  },
+  "wine": {
+    "title": "Vino",
+    "desc": "✔️ Eres sensible y sofisticado, con un fuerte sentido estético. Valorás el tiempo a solas, disfrutas de conversaciones profundas y aprecias el arte y la cultura. Tu gusto es único y tu mundo, especial.\n\n🧀 Maridajes perfectos: Queso, fruta, filete\n🎵 Música recomendada: Jazz, clásica, R&B\n\n💡 Ideal para disfrutar cuando:\n- Te relajas de noche con música\n- Celebras ocasiones especiales\n- Reflexionas en tu propio espacio\n\n\"Saborea las emociones de hoy con una copa de vino.\"\n\n👉 ¡El vino es tu pareja ideal!"
+  },
+  "whisky": {
+    "title": "Whisky",
+    "desc": "✔️ Tienes un encanto profundo y misterioso. Disfrutas pasar tiempo a solas y prefieres conversaciones significativas. Tu gusto refinado y convicciones firmes te distinguen.\n\n🥩 Maridajes perfectos: Filete, queso, chocolate amargo\n🎵 Música recomendada: Blues, jazz, clásica\n\n💡 Ideal para disfrutar cuando:\n- Disfrutas del ambiente de un bar tranquilo\n- Reflexionas sobre la vida\n- Celebras momentos especiales\n\n\"Deja que el aroma intenso inspire tu propia historia.\"\n\n👉 ¡El whisky es tu pareja ideal!"
+  }
+}
+}
